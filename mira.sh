@@ -31,7 +31,7 @@ fi
 # 2. PANEL DE CONTROL (Se abre al teclear 'iwin')
 # ==========================================
 TRIAL_FILE="$HOME/.mira_trial_state"
-PHONE_NUM="525500000000" # <--- PON TU NÚMERO DE WHATSAPP AQUÍ
+PHONE_NUM="525663642674" # <--- PON TU NÚMERO DE WHATSAPP AQUÍ
 
 show_menu() {
     clear
